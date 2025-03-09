@@ -13,7 +13,6 @@ Hey there! 👋 I'm a full-stack web developer passionate about building web app
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nthndkid&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=nthndkid&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nthndkid&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
@@ -27,7 +26,8 @@ Hey there! 👋 I'm a full-stack web developer passionate about building web app
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nthndkid&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-
+### 🛠️ Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nthndkid&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=nthndkid&icon=0&color=8)](https://visitcount.itsvg.in)
 
