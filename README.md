@@ -19,7 +19,7 @@ Currently, I'm the **lead developer at WhiteCanes Solutions**, a capstone team w
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-### 🛠️ Languages
+### 🛠️ Most Used Languages 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nthndkid&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=nthndkid&icon=0&color=8)](https://visitcount.itsvg.in)
