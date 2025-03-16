@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hey there! 👋 I'm a full-stack web developer passionate about building web applications and solving real-world problems through technology. I specialize in Laravel, Flask, and JavaScript, and I'm always exploring new frameworks and tools to enhance my skills.<br><br>Currently, I'm the lead developer at WhiteCanes Solutions, a capstone team where we develop web-based systems for real clients. While my primary focus is on web development, I'm also exploring AI, AR, and machine learning, continuously learning and experimenting with new technologies.<br><br>💻 Full-stack web developer (Django, Flask, Laravel, Vue, JavaScript, Python)<br>🎓 Pursuing a Bachelor of Science in Information Technology<br>🏗 Building real-world web solutions & systems<br>🧠 Exploring AI, AR & emerging technologies<br>🚀 Aspiring entrepreneur & innovator
+
+### Hey there! 👋  
+
+I'm a **full-stack web developer** and an **3rd Year IT student at Polytechnic University of the Philippines**, passionate about building web applications and solving real-world problems through technology. My expertise lies in **Django, Flask, and JavaScript**, and I'm always exploring new frameworks and tools to enhance my skills.  
+
+Currently, I'm the **lead developer at WhiteCanes Solutions**, a capstone team where we develop **web-based systems for real clients**. Beyond web development, I'm deeply interested in **AI, AR, and machine learning**, constantly learning and experimenting with emerging technologies.  
+
+🚀 **Let’s connect and collaborate!** Feel free to explore my projects and contribute.  
 
 
 
